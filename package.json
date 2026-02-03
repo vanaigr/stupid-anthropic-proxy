@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "vercel": "^50.9.6"
+    }
+}
